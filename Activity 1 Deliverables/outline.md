@@ -10,8 +10,8 @@ Activity 1 Outline
 Reach Autism Learning is a charity organization that works with families and children with autism in their homes and provide educational services for childrens learning success. The project is to explore new web designs that will help Reach Autism Learning reach more people and communicate what they do, why the charity is helpful to families and children with autism, and how others can work with or support the charity. Reach Autism Learning wants a complete redesign of their current website with easier navigation and more inviting home page.
 
 **Northstar & Carryover Customers**
-Northstar: Families and children with autism
-Carryover: Volunteers, donators, collaborators
+- Northstar: Families and children with autism
+- Carryover: Volunteers, donators, collaborators
 
 **Assumptions**
 - All deliverables must be uploaded and organized in a public repository on Github
